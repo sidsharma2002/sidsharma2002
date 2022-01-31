@@ -4,7 +4,6 @@
 
 🌟 STAR THE REPOS IF YOU LIKE 🌟
 
-- 🔭 I’m currently working in Rooter Sports Pvt Ltd (has 20million+ downloads on playstore)
 - 💬 All open for any freelance projects or other opportunities
 - 📫 How to reach me:  https://www.linkedin.com/in/sidsharma2002/
 - ⚡ Fun fact: I am strong in UI/UX also :)
