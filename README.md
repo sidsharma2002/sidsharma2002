@@ -6,7 +6,6 @@
 
 - 💬 All open for any freelance projects or other opportunities
 - 📫 How to reach me:  https://www.linkedin.com/in/sidsharma2002/
-- ⚡ Fun fact: I am strong in UI/UX also :)
 - One year+ work experience
 
  <summary><h2><b>🥇 Open Source Projects open for contributions.</b></h2></summary>
