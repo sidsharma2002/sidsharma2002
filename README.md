@@ -1,7 +1,5 @@
 # Hello, folks! 
 
-### The Android Developer you were looking for
-
 🌟 STAR THE REPOS IF YOU LIKE 🌟
 
 - 💬 All open for any freelance projects or other opportunities
