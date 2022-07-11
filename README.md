@@ -2,9 +2,8 @@
 
 🌟 STAR THE REPOS IF YOU LIKE 🌟
 
-- 💬 All open for any freelance projects or other opportunities
+- Constantly learning Software Engineering
 - 📫 How to reach me:  https://www.linkedin.com/in/sidsharma2002/
-- One year+ work experience
 
  <summary><h2><b>🥇 Open Source Projects open for contributions.</b></h2></summary>
 
