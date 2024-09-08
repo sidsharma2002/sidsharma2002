@@ -2,7 +2,7 @@
 
 - About Me : I am an experienced Android Developer with a strong focus on building and optimizing mobile applications. I have been working in Rooter for 3 years as Android Developer and scaled the product from 0.1mn to 1mn+ DAU (thats 10X). I have also been into public speaking and judged around 10+ hackathons in India.
 
-- 📫 How to reach me:  https://www.linkedin.com/in/sidsharma2002/
+- 📫 How to reach me:  https://linktr.ee/random__user03
 
  <summary><h2><b>🥇 Open Source Projects open for contributions.</b></h2></summary>
 
